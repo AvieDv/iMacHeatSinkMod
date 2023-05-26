@@ -1,1 +1,1 @@
-# iMacGPU
+# iMac heatSink Mode
