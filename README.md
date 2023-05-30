@@ -11,7 +11,7 @@ En el disipador original del iMac como se muestra en la foto en la parte superio
 1.- Se debe pulir 1cm hasta el ras de la base de aluminio del disipador de 2 y 3 tubos de cobre.
 <img width="1047" alt="Captura de Pantalla 2022-11-11 a la(s) 10 47 17" src="https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/0adf7649-6aae-4624-bd1f-5c756d451073">![Uploading U3f0c506fa7b54b4ba26c9d7e787c6825m.jpg…]()
 
-![image](https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/3d31b874-ebdb-46d3-bd37-6c5541ac03de)
+
 
 2.- a continuación, se debe colocar los PADS térmicos donde se muestra en la imagen
 3.- se deben cubrir para que no toquen directamente con el aluminio de la base.
