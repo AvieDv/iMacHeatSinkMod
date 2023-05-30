@@ -15,6 +15,8 @@ En el disipador original del iMac como se muestra en la foto en la parte superio
 
 <img width="979" alt="Captura de pantalla 2022-09-05 a la(s) 8 12 03 p m" src="https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/46592bf0-7522-497c-9b36-93c3083efcdf">
 
+Disipador modificado:
+<img width="1008" alt="Captura de Pantalla 2022-10-13 a la(s) 18 05 13" src="https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/18faf4d0-cf80-41b6-acd0-b1b0bb10921d">
 
 # Instalación de Disipador casero
 ![IMG_20220901_171248](https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/7ea1cf2d-94f3-4a7c-9376-5a06ac66f24a)
