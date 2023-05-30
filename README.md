@@ -18,13 +18,26 @@ En el disipador original del iMac como se muestra en la foto en la parte superio
 Disipador modificado:
 <img width="1008" alt="Captura de Pantalla 2022-10-13 a la(s) 18 05 13" src="https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/18faf4d0-cf80-41b6-acd0-b1b0bb10921d">
 
+
 # Instalación de Disipador casero
+
 ![IMG_20220901_171248](https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/7ea1cf2d-94f3-4a7c-9376-5a06ac66f24a)
-
-
 1.- Otro método es no usar el disipador de calor original y reemplazarlo por uno casero
+
 2.-Lo podemos hacer manualmente o reciclar de otros disipadores de diferentes tamaños
-3.-Todo acorde a este tipo de tarjetas graficas y que se puedan instalar en la placa madre con normalidad.
-4.-tambien podemos Quitar el SUPERDRIVE para modificar la posición de el ventilador para re direccionar el flujo de aire.
+![dfsafdsa](https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/55eea716-86ed-41f4-9901-05878dff4b8c)
+![IMG_20220903_122608](https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/a32b97ff-b4a7-4f30-a562-25b9d5922bf4)
+
+3.-Todo acorde a este tipo de tarjetas graficas MXM y que se puedan instalar en la placa madre con normalidad.
+![dsfa](https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/671e477d-10fc-4762-9fa7-255989c692c8)
+![IMG_20220901_171248](https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/5ca02100-99fe-48ca-8c76-e2b6fa68110b)
+![IMG_20220901_171252](https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/0068bae3-b47d-42c6-8e9f-9e3afd0fb9bf)
+
+4.-Tambien podemos Quitar el SUPERDRIVE para modificar la posición de el ventilador para re direccionar el flujo de aire.
+![WhatsApp Image 2023-05-29 at 23 39 53](https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/4ecb3230-b056-44cd-8312-0d9681cee831)
+
 5.-Y debemos estar seguros que el GPU se enfrié con normalidad.
+![IMG_20220901_171345](https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/3a8699fb-e52f-4ba2-8eba-07830a2d720d)
+![IMG_20220901_161821](https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/f501a4c8-c77f-440e-a1d6-75e1193a804c)
+<img width="963" alt="Captura de Pantalla 2023-05-29 a la(s) 23 42 14" src="https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/67422a15-5288-47c4-bf6a-2b004a3e3253">
 
