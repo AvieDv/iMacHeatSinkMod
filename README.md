@@ -4,7 +4,9 @@ Esta es una breve explicación para modificar el DISIPADOR de calor del iMac A13
 <img width="996" alt="Captura de pantalla 2022-09-04 a la(s) 2 17 46 a m" src="https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/472ec23e-cb30-49b6-83af-cc2203f7b34a">
 
 Modificación del disipador de calor en iMac A1312 ó Instalación de Disipador casero(esto es totalmente experimental)
-En el disipador original del iMac como se muestra en la foto en la parte superior derecha
+
+En el disipador original del iMac como se muestra en la foto en la parte superior derecha:
+
 1.- se debe pulir 1cm hasta el ras de la base de aluminio
 2.- a continuación, se debe colocar los PADS térmicos donde se muestra en la imagen
 3.- se deben cubrir para que no toquen directamente con el aluminio de la base.
