@@ -41,3 +41,8 @@ Disipador modificado:
 ![IMG_20220901_161821](https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/f501a4c8-c77f-440e-a1d6-75e1193a804c)
 <img width="963" alt="Captura de Pantalla 2023-05-29 a la(s) 23 42 14" src="https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/67422a15-5288-47c4-bf6a-2b004a3e3253">
 
+![61B4aF4K0PL _AC_SX425_](https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/e3a05bf1-18fe-4879-997e-800c067043de)
+
+![s-l1600 (5)](https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/8c10463f-e92b-4ca9-9a8f-d6e764537cfd)
+
+![611cErU7DIL _AC_SX425_](https://github.com/AvieDv/iMacHeatSinkMod/assets/43917721/2ca59e71-2eb3-472b-9abe-b89248ccae1b)
